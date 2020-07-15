@@ -4,3 +4,5 @@ There is also a style.css to assist with giving the portfolio the styling that I
 Link to deployed site: https://shandfield.github.io/shelby-handfield-portfolio/.
 ![2020-07-15 (1)](https://user-images.githubusercontent.com/63683598/87609679-6cd2db80-c6c0-11ea-9dca-663b5df73b68.png)
 ![2020-07-15](https://user-images.githubusercontent.com/63683598/87609032-ba4e4900-c6be-11ea-81a6-c634902c5f40.png)
+![2020-07-15 (2)](https://user-images.githubusercontent.com/63683598/87610302-3dbd6980-c6c2-11ea-9103-6bdb519cb5ca.png)
+
