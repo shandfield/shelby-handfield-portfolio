@@ -1,2 +1,4 @@
 # shelby-handfield-portfolio
-Creating a working porfolio about myself, Shelby. This is a living article as I am making edits, updates and creations that will be added to this. 
+Creating a working portfolio about myself, Shelby. This is a living article that will showcase my strengths. I have created a index, contact, and portfolio section. These all connect via buttons. 
+There is also a style.css to assist with giving the portfolio the styling that I want. 
+Link to deployed site: https://shandfield.github.io/shelby-handfield-portfolio/.
